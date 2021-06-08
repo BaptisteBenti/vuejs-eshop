@@ -14,7 +14,6 @@ const products = [
         'quantity': 42,
         'price': 22.0,
         'on_sale': true,
-        'sold': 42
     },
     {
         'id': 2,
@@ -31,7 +30,6 @@ const products = [
         'quantity': 0,
         'price': 14.0,
         'on_sale': true,
-        'sold': 32
     },
     {
         'id': 3,
@@ -48,7 +46,6 @@ const products = [
         'quantity': 128,
         'price': 3.14,
         'on_sale': false,
-        'sold': 50
     },
     {
         'id': 4,
@@ -65,7 +62,6 @@ const products = [
         'quantity': 24,
         'price': 22.0,
         'on_sale': true,
-        'sold': 10
     },
     {
         'id': 5,
@@ -82,7 +78,6 @@ const products = [
         'quantity': 12,
         'price': 20.0,
         'on_sale': true,
-        'sold': 6
     },
     {
         'id': 6,
@@ -99,7 +94,6 @@ const products = [
         'quantity': 2,
         'price': 3,
         'on_sale': true,
-        'sold': 23
     },
     {
         'id': 7,
@@ -116,7 +110,6 @@ const products = [
         'quantity': 0,
         'price': 15,
         'on_sale': true,
-        'sold': 50
     },
     {
         'id': 8,
@@ -133,7 +126,6 @@ const products = [
         'quantity': 2,
         'price': 6,
         'on_sale': true,
-        'sold': 24
     },
 ]
 
